@@ -1,0 +1,128 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	font-family:Trebuchet MS; 
+}
+
+header
+{
+	padding-bottom:40px;
+	background-position:center; 
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+video{
+	position:absolute; 
+	z-index: -1; 
+	width:100%; 
+} 
+
+.background
+{
+	background: rgba(0, 0, 0, 0.5);
+	position:fixed;
+	width:100%;
+}
+
+.row
+{
+	max-width:1080px;
+}
+
+.main-nav
+{
+	list-style:none;
+	float:right;
+	margin-top:25px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+	margin-left:20px;
+}
+
+.main-nav li a
+{
+	color:white;
+	text-decoration:none;
+	font-size:120%;
+	font-weight:bold;
+}
+
+.main-nav li a:hover
+{
+	color:#d3d3d3;
+	border-bottom:2px solid #d3d3d3;
+	transition:all 0.5s ease-in;
+	padding:15px 0;
+}
+
+.logo img
+{
+	padding-left:47%;
+	height:100px;
+	margin-top:50px;
+}
+
+h1:after
+{
+	width:100px;
+	height:2px;
+	background-color:#000080;
+	display:block;
+	content:" ";
+	margin:0 auto;
+	margin-top:30px;
+}
+
+.team 
+{
+	padding-left:10%;
+	padding-right:10%;
+}
+
+ /* Three columns side by side */
+.column {
+    float: left;
+    width: 25%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media (max-width: 650px){
+    .column {
+        width: 100%;
+        display: block;
+    }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.container {
+    padding: 0 16px;
+	width:100%;
+}
+
+/* Clear floats */
+.container::after, .
+::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.title {
+    color: grey;
+}
