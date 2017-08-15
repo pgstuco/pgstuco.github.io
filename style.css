@@ -11,13 +11,14 @@ body
 
 header
 {
-	height:100vh;
+	
 	background-position:center; 
 	background-size:cover;
 	background-attachment:fixed;
 }
 
 video{
+
 	position:absolute; 
 	z-index: -1; 
 	width:100%; 
@@ -31,14 +32,14 @@ video{
 }
 .row
 {
-	max-width:1080px;
+	width:100%;
 }
 
 .main-nav
 {
 	list-style:none;
-	float:right;
 	margin-top:25px;
+	text-align:center;
 }
 
 .main-nav li
@@ -65,25 +66,23 @@ video{
 
 .logo img
 {
-	padding-left:43%;
-	height:200px;
-	margin-top:145px;
+	padding-left:41%;
+	width:60%;
+	margin-top:18vh;
 }
 
 h1
 {
 	color:white;
-	font-size:500%;
+	font-size:5vw;
 	font-weight: bolder;
 }
 
 h2{
-	font-size:450%;
+	font-size:4vw;
 	color:white;
-	padding-left:39%;
-	font-weight: 100;
+	font-weight:100;
 }
-
 
 h3:after
 {
@@ -98,7 +97,7 @@ h3:after
 
 #contain
 {
-	margin-top:80px;
+	margin-top:150px;
 	border-radius:12px;
 	background-color:#d3d3d3;
 	width: 100%;
