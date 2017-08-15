@@ -128,3 +128,11 @@ div.desc {
     display: table;
     clear: both;
 }
+
+.end{
+	background-color:grey; 
+	background-size:cover;
+	text-align:center; 
+	padding-top:100px; 
+	color:white;
+}
