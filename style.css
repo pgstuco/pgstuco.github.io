@@ -68,7 +68,7 @@ video{
 {
 	padding-left:41%;
 	width:60%;
-	margin-top:18vw;
+	margin-top:13vw;
 }
 
 h1
@@ -97,7 +97,7 @@ h3:after
 
 #contain
 {
-	margin-top:150px;
+	margin-top:200px;
 	border-radius:12px;
 	background-color:#d3d3d3;
 	width: 100%;
@@ -144,6 +144,7 @@ h3:after
 	display: inline-block;
 	vertical-align:top; 
 }
+
 .vision h3
 {
 	margin-top:80px;
@@ -161,7 +162,10 @@ h3:after
 	padding-top:25%;
 	padding-left:25%;
 }
-
+.au 
+{
+	padding-bottom:20px;
+}
 .about
 {
 	width:70%; 
