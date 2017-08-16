@@ -32,14 +32,14 @@ video{
 
 .row
 {
-	max-width:1080px;
+	width:100%;
 }
 
 .main-nav
 {
 	list-style:none;
-	float:right;
 	margin-top:25px;
+	text-align:center;
 }
 
 .main-nav li
