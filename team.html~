@@ -20,13 +20,14 @@
     <li><a href="index.html#vision">VISION</a></li>
     <li><a href="index.html#about">ABOUT US</a></li>
     <li><a href="team.html">OUR TEAM</a></li>
-    <li><a href="photo.html">EVENTS</a></li>
+    <li><a href="event.html">EVENTS</a></li>
+    <li><a href="photo.html">PHOTOS</a></li>
     <li><a href="minutes.html">MINUTES</a></li>
     <li><a href="index.html#suggestions">SUGGESTIONS</a></li>
    </ul>
    </div>
    </div>
-   <iframe width="100%" height="85%" src="https://www.youtube.com/embed/S_W9u9RM5Dw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   <img src="img/stucoteam.JPG" style="width:100%">
    <div class="logo">
     <img src="img/logo.png">
    </div>
@@ -307,8 +308,6 @@
   
 </div> 
 </section>
- 
-  
 <section>
 <div class="end">
    <a href="https://www.facebook.com/pointgreystuco/"  target="_blank">
@@ -320,7 +319,7 @@
    <a href="https://www.snapchat.com/add/pointgrey_stuco"  target="_blank">
     <img src="img/snapchat.png">
    </a>
-   <p> <br>&#169 2017-2018 Point Grey Student Council. <br> Website developed and designed by Michelle Lam. Photography provided by Matthew Yee, Sam Jeong, Alex Wong, Izzy Wong.</p>
+   <p> <br>&#169 2017-2018 Point Grey Student Council. <br> Website developed and designed by Michelle Lam. Photography provided by Matthew Yee, Sam Jeong.</p>
    </div>
    </section>
  </body>

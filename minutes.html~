@@ -1,58 +1,120 @@
 <html>
-	<head>
-	
-		<title>Point Grey Student Council</title>
-		
-		<link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
-		
-		<link href="styleminutes.css" rel="stylesheet" type="text/css">
-		
-	</head>
-	
-	<body>			
-		<header>
-			<div class="background">
-			<div class="row">			
-			<ul class="main-nav">
-				<li><a href="index.html">HOME</a></li>
-				<li><a href="index.html#vision">VISION</a></li>
-				<li><a href="index.html#about">ABOUT US</a></li>
-				<li><a href="team.html">OUR TEAM</a></li>
-				<li><a href="event.html">EVENTS</a></li>
-				<li><a href="photo.html">PHOTOS</a></li>
-				<li><a href="minutes.html">MINUTES</a></li>
-				<li><a href="index.html#suggestions">SUGGESTIONS</a></li>
-			</ul>
-			</div>
-			</div>
-			<img src="img/team.jpg" style="width:100%">
-				<h1 class="text-center">Minutes</h1>			
-		</header>
-		<div class="minutes">
-		<span class="bold_font">09/04/2017 - </span>
-		<span class="small_font"><a href="https://docs.google.com/document/d/16ood1W5mzDPimE4-vZPYFxsGnbRv79NNOXZg-LI9WSE/edit"  target="_blank">https://docs.google.com/document/d/16ood1W5mzDPimE4-vZPYFxsGnbRv79NNOXZg-LI9WSE/edit</a></span>
-		<span class="bold_font"><br>07/04/2017 - </span>
-		<span class="small_font">Student Council Retreat</span>
-		<span class="bold_font"><br>06/22/2016</span>
-		</div>
-		
-		<div class="end">
-			<a href="https://www.facebook.com/pointgreystuco/"  target="_blank">
-				<img src="img/facebook.png">
-			</a>
-			<a href="https://www.instagram.com/pointgrey_stuco/"  target="_blank">
-				<img src="img/instagram.png">
-			</a>
-			<a href="https://www.snapchat.com/add/pointgrey_stuco"  target="_blank">
-				<img src="img/snapchat.png">
-			</a>
-			<p> <br>&#169 2017-2018 Point Grey Student Council. <br> Website developed and designed by Michelle Lam. Photography provided by Matthew Yee, Sam Jeong.</p>
-			</div>
-	</body>
-	
-	<section>
+ <head>
+ 
+  <title>Point Grey Student Council</title>
+  
+  <link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  
+  <link href="styleminutes.css" rel="stylesheet" type="text/css">
+  
+ </head>
+ 
+ <body>   
+  <header>
+   <div class="background">
+   <div class="row">   
+   <ul class="main-nav">
+    <li><a href="index.html">HOME</a></li>
+    <li><a href="index.html#vision">VISION</a></li>
+    <li><a href="index.html#about">ABOUT US</a></li>
+    <li><a href="team.html">OUR TEAM</a></li>
+    <li><a href="event.html">EVENTS</a></li>
+    <li><a href="photo.html">PHOTOS</a></li>
+    <li><a href="minutes.html">MINUTES</a></li>
+    <li><a href="index.html#suggestions">SUGGESTIONS</a></li>
+   </ul>
+   </div>
+   </div>
+   <img src="img/team.jpg" style="width:100%">
+    <h1 class="text-center">Meeting Minutes</h1>   
+  </header>
+  <div class="minutes">
+  <span class="bold_font"><br>06/19/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1Gx7ar75NmAJUopmPaNPcIn6lq5Iqm7ghHpVtjRAJq8I/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1Gx7ar75NmAJUopmPaNPcIn6lq5Iqm7ghHpVtjRAJq8I/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>06/12/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/12T63QdgK1800yERYB5kSk_ZgJGPPsYZM3vXoW1lQ1B0/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/12T63QdgK1800yERYB5kSk_ZgJGPPsYZM3vXoW1lQ1B0/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>06/07/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1li822QzGwCAQVgdiy7WhkwRYzMu5GxSGNx785NR9U9A/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1li822QzGwCAQVgdiy7WhkwRYzMu5GxSGNx785NR9U9A/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>05/21/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1zrlLhS5gCI1JyYQ6KKnYvrWwPg42dFXkLj5e1jINIYI/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1zrlLhS5gCI1JyYQ6KKnYvrWwPg42dFXkLj5e1jINIYI/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>05/08/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1fROdl5YdlIF_sUloQmeYDusoyoUpXcc60Q09aWFIXHE/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1fROdl5YdlIF_sUloQmeYDusoyoUpXcc60Q09aWFIXHE/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>05/01/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/12Fo73pRXVmiVQ5KQVmgZpZXuhK9rPiaHz1rqYIy-D6U/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/12Fo73pRXVmiVQ5KQVmgZpZXuhK9rPiaHz1rqYIy-D6U/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>04/24/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1pN50O5uMcF5P3Ivcf0kXbMmGk7TlKO4OwfhKMazDnmI/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1pN50O5uMcF5P3Ivcf0kXbMmGk7TlKO4OwfhKMazDnmI/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>04/17/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/14S1_xxv1yKkArn-6lIRhUPXAa7bq3r7qIQhP14R-l3k/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/14S1_xxv1yKkArn-6lIRhUPXAa7bq3r7qIQhP14R-l3k/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>04/10/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1nHT6YRuJ8vdLJ-HQbII91WhjncNY1bucjHaFeiussGY/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1nHT6YRuJ8vdLJ-HQbII91WhjncNY1bucjHaFeiussGY/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>04/03/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/17OFgRRMvoH9eYzHumK7Lpj0JhvfShNT5YQ9FkETkMSY/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/17OFgRRMvoH9eYzHumK7Lpj0JhvfShNT5YQ9FkETkMSY/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>03/13/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1otKGHzL5A5FurZIxSIWq6nmXaeu1cjkEKgCeDL-fd7A/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1otKGHzL5A5FurZIxSIWq6nmXaeu1cjkEKgCeDL-fd7A/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>03/06/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/10LyOTqLTl7791qOcWTk5aTzemt_4yByPHVPk3a5dS9M/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/10LyOTqLTl7791qOcWTk5aTzemt_4yByPHVPk3a5dS9M/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>02/27/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1pxKW_PAmsWRnr-cW4FmqV4BE8ELn0YrKat0sEHn3sJk/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1pxKW_PAmsWRnr-cW4FmqV4BE8ELn0YrKat0sEHn3sJk/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>02/20/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1OOry5E6AZ9VMqfbQZrG5jQjMmWKQTehnnsn03yt2XKk/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1OOry5E6AZ9VMqfbQZrG5jQjMmWKQTehnnsn03yt2XKk/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>02/06/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1dFxxriT5DNDkkD8G8AnomYae7ZFX7mPOXor-EAsZ4PE/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1dFxxriT5DNDkkD8G8AnomYae7ZFX7mPOXor-EAsZ4PE/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>01/29/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1jLtsMAm5Hem2fnpW8VP3LgC0pqH_HBBOqYhJW1-IZgk/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1jLtsMAm5Hem2fnpW8VP3LgC0pqH_HBBOqYhJW1-IZgk/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>01/23/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1gE4f2YLiA83lJcpMuNR3V0GY12f7MmFQM2qzmfz-ju4/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1gE4f2YLiA83lJcpMuNR3V0GY12f7MmFQM2qzmfz-ju4/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>01/09/2018 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1Oodo4zW3SDb43gC455dd1X9OUydO9GUsGzjG__UNbik/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1Oodo4zW3SDb43gC455dd1X9OUydO9GUsGzjG__UNbik/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>12/22/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1jD9LblEQxUTS9SGnBhwtre2mbnm1EpUZhmOe46hWLGk/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1jD9LblEQxUTS9SGnBhwtre2mbnm1EpUZhmOe46hWLGk/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>12/12/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1HAfC1-FZWcDiT_7TJFjLtZE_teycZeQW4MCX7QVDRz0/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1HAfC1-FZWcDiT_7TJFjLtZE_teycZeQW4MCX7QVDRz0/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>12/05/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1VD5M-rR6XmEXYTXYp7jvE13btV6U7n6PbtfJ5w7EYr4/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1VD5M-rR6XmEXYTXYp7jvE13btV6U7n6PbtfJ5w7EYr4/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>11/28/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1NiXw6hzBXVSg_cvzr7oVpCRIYmk3roPLxR0C_QdGers/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1NiXw6hzBXVSg_cvzr7oVpCRIYmk3roPLxR0C_QdGers/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>11/21/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1JSM1qjExhBd6oXMGaAhscOjzT2ebxNEGsG2_ClGy2R0/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1JSM1qjExhBd6oXMGaAhscOjzT2ebxNEGsG2_ClGy2R0/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>11/14/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/12kCNLOv-hPKgAWVFXWA1roh1LgS-YZlj0d3D-XhV1jE/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/12kCNLOv-hPKgAWVFXWA1roh1LgS-YZlj0d3D-XhV1jE/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>10/24/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1nhgu7CfCccCpb9mMc7FA281SEK8Qml6BboQYfWgMbp8/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1nhgu7CfCccCpb9mMc7FA281SEK8Qml6BboQYfWgMbp8/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>10/17/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1nKnH5VP4IHZgscTiJb0JBr5POIVxNkbqnGDIYDpSbTs/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1nKnH5VP4IHZgscTiJb0JBr5POIVxNkbqnGDIYDpSbTs/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>10/10/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1JrlDV6CmH7BOqTnAl70I6ycF7O6-BRQgOLN2r-bzQdo/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1JrlDV6CmH7BOqTnAl70I6ycF7O6-BRQgOLN2r-bzQdo/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>10/03/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1H2hu96CCdgzt8p4PXcYRz3glqKqPDqXXog1SBx9_ITY/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1H2hu96CCdgzt8p4PXcYRz3glqKqPDqXXog1SBx9_ITY/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>09/20/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1aWscRqNFN5F1lFpLaOO4YmoAuZ484HuEStaRuqSIK6s/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1aWscRqNFN5F1lFpLaOO4YmoAuZ484HuEStaRuqSIK6s/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>09/12/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1ZW4gWxBiFOJ6na9gPlSIcm89t-7hDxigdwM18dUuyic/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1ZW4gWxBiFOJ6na9gPlSIcm89t-7hDxigdwM18dUuyic/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>09/04/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/11tVtq3tjt_qKwK3W-cG9X9K3Tbn3x8TV8MsQr3NJr_M/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/11tVtq3tjt_qKwK3W-cG9X9K3Tbn3x8TV8MsQr3NJr_M/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>07/04/2017 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1NgRghMIIbX-LXiC0xauPBDDG1olQrru4y4f_0JwfGLk/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1NgRghMIIbX-LXiC0xauPBDDG1olQrru4y4f_0JwfGLk/edit?usp=sharing</a></span>
+  <span class="bold_font"><br>06/22/2016 - </span>
+  <span class="small_font"><a href="https://docs.google.com/document/d/1DYpMzOCqWiPmGxqzND-vxvW0yS7fJnPd1VxbJCNsDpM/edit?usp=sharing"  target="_blank">https://docs.google.com/document/d/1DYpMzOCqWiPmGxqzND-vxvW0yS7fJnPd1VxbJCNsDpM/edit?usp=sharing</a></span>
+  
+  </div>
+  
+  <div class="end">
+   <a href="https://www.facebook.com/pointgreystuco/"  target="_blank">
+    <img src="img/facebook.png">
+   </a>
+   <a href="https://www.instagram.com/pointgrey_stuco/"  target="_blank">
+    <img src="img/instagram.png">
+   </a>
+   <a href="https://www.snapchat.com/add/pointgrey_stuco"  target="_blank">
+    <img src="img/snapchat.png">
+   </a>
+   <p> <br>&#169 2017-2018 Point Grey Student Council. <br> Website developed and designed by Michelle Lam. Photography provided by Matthew Yee, Sam Jeong.</p>
+   </div>
+ </body>
+ 
+ <section>
 
 </section>
 </html>
