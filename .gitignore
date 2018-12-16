@@ -1,0 +1,10 @@
+# Temporary files
+*~
+*.swp
+
+# Thumbnails
+._*
+
+# Sass
+.sass-cache/
+*.css.map
