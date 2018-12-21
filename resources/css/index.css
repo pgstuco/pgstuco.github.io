@@ -35,44 +35,23 @@ h3:after {
   padding-top: 10px;
 }
 
+#col1, #col2, #col3, #col4, #col5 {
+  width: 18%;
+  min-height: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
 #col1 {
   margin: 0 0 0 2.5%;
-  width: 19%;
-  min-height: 350px;
-  display: inline-block;
-  vertical-align: top;
 }
 
-#col2 {
+#col2, #col3, #col4 {
   margin: 0 0 0 0;
-  width: 19%;
-  min-height: 350px;
-  display: inline-block;
-  vertical-align: top;
-}
-
-#col3 {
-  margin: 0 0 0 0;
-  width: 19%;
-  min-height: 350px;
-  display: inline-block;
-  vertical-align: top;
-}
-
-#col4 {
-  margin: 0 0 0 0;
-  width: 19%;
-  min-height: 350px;
-  display: inline-block;
-  vertical-align: top;
 }
 
 #col5 {
   margin: 0 2.5% 0 0;
-  width: 19%;
-  min-height: 350px;
-  display: inline-block;
-  vertical-align: top;
 }
 
 .vision h3 {
