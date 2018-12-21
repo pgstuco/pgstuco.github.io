@@ -1,66 +1,62 @@
-.team 
-{
-	padding-left:10%;
-	padding-right:10%;
+.team {
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
- /* Three columns side by side */
+/* Three columns side by side */
 .column {
-    float: left;
-    width: 25%;
-    margin-bottom: 16px;
-    padding: 0 8px;
+  float: left;
+  width: 25%;
+  margin-bottom: 16px;
+  padding: 0 8px;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
-@media (max-width: 650px){
-    .column {
-        width: 100%;
-        display: block;
-    }
+@media (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
 }
 
 /* Add some shadows to create a card effect */
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 /* Some left and right padding inside the container */
 .container {
-    padding: 0 16px;
-	width:100%;
+  padding: 0 16px;
+  width: 100%;
 }
 
 /* Clear floats */
-.container::after, .
-::after {
-    content: "";
-    clear: both;
-    display: table;
+.container::after, .::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .title {
-    color: grey;
+  color: grey;
 }
 
-.end{
-	background-color:grey; 
-	background-size:cover;
-	text-align:center; 
-	padding-top:100px; 
-	color:white;
-	 clear: both;
-    position: relative;
-    z-index: 10;
-    margin-top: -3em;
+.end {
+  background-color: grey;
+  background-size: cover;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+  clear: both;
+  position: relative;
+  z-index: 10;
+  margin-top: -3em;
 }
 
-.team h2
-{
-	font-size:1.5vw;
+.team h2 {
+  font-size: 1.5vw;
 }
 
-.team p
-{
-	font-size:1vw;
+.team p {
+  font-size: 1vw;
 }

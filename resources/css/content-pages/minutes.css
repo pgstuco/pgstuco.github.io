@@ -1,21 +1,20 @@
-.minutes
-{
-	padding-left:5%;
+.minutes {
+  padding-left: 5%;
 }
 
-.bold_font{
-	font-weight:bold; 
-	font-size:250%;
+.bold_font {
+  font-weight: bold;
+  font-size: 250%;
 }
 
-.small_font{
-	font-size:170%;
+.small_font {
+  font-size: 170%;
 }
 
-.end{
-	background-color:grey; 
-	background-size:cover;
-	text-align:center; 
-	padding-top:100px; 
-	color:white;
+.end {
+  background-color: grey;
+  background-size: cover;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
 }
