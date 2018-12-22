@@ -1,5 +1,4 @@
 /* This CSS file contains the common styling for all pages. */
-
 body {
   font-family: Trebuchet MS;
   font-size: 14;
@@ -7,9 +6,9 @@ body {
 }
 
 header {
-  padding-bottom: 40px;
   background-attachment: fixed;
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -80,35 +79,32 @@ video {
   width: 100%;
 }
 
-.background {
+.navigation-bar {
   position: fixed;
+  top: 0;
   width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 
-.row {
-  width: 100%;
-}
-
-.main-nav {
+.navigation-bar-list {
   margin-top: 25px;
   list-style: none;
   text-align: center;
 }
 
-.main-nav li {
+.navigation-bar-list li {
   display: inline-block;
   margin-left: 20px;
 }
 
-.main-nav li a {
+.navigation-bar-list li a {
   font-size: 120%;
   font-weight: bold;
   text-decoration: none;
   color: white;
 }
 
-.main-nav li a:hover {
+.navigation-bar-list li a:hover {
   padding: 15px 0;
   transition: all 0.5s ease-in;
   color: #d3d3d3;
