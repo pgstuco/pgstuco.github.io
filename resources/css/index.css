@@ -54,6 +54,11 @@ h3:after {
   width: 100%;
   margin-left: 0;
   padding-top: 10px;
+  text-align: center;
+}
+
+.icon-card {
+  display: block;
 }
 
 #col1, #col2, #col3, #col4, #col5 {
