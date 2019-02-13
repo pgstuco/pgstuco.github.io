@@ -12,13 +12,11 @@ header {
   padding-left: 5%;
 }
 
-.bold_font {
+.minutes-line {
+  text-align: center;
   font-weight: bold;
-  font-size: 250%;
-}
-
-.small_font {
-  font-size: 170%;
+  font-size: 1.3em;
+  padding: 0 0 1em 0;
 }
 
 .end {
