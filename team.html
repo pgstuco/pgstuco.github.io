@@ -17,30 +17,31 @@ of the Student Council. -->
   <link href="resources/css/content-pages/content-pages.css" rel="stylesheet" type="text/css">
   <link href="resources/css/content-pages/team.css" rel="stylesheet" type="text/css">
 
+  <script src="vendors/jquery/jquery-3.3.1.min.js"></script>
+
+  <script>
+    $(function() {
+      $("#header").load("header.html");
+      $("#footer").load("footer.html");
+    });
+  </script>
+
 </head>
 
 <body>
-  <header>
-    <div class="navigation-bar">
-      <ul class="navigation-bar-list">
-        <li><a href="index.html">HOME</a></li>
-        <li><a href="index.html#vision">VISION</a></li>
-        <li><a href="index.html#about">ABOUT US</a></li>
-        <li><a href="team.html">OUR TEAM</a></li>
-        <li><a href="events.html">EVENTS</a></li>
-        <li><a href="minutes.html">MINUTES</a></li>
-        <li><a href="index.html#suggestions">SUGGESTIONS</a></li>
-      </ul>
-    </div>
+  <!-- jQuery injection -->
+  <div id="header"></div>
+
+  <section>
     <iframe width="100%" height="85%" src="https://www.youtube.com/embed/S_W9u9RM5Dw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <div class="logo">
       <img src="resources/img/logos/logo.png">
     </div>
-  </header>
-
-  <h1 class="text-center">STUDENT COUNCIL 2017-2018</h1>
+  </section>
 
   <section>
+    <h1 class="text-center">STUDENT COUNCIL 2017-2018</h1>
+
     <div class="team">
       <div class="column">
         <div class="card">
@@ -315,18 +316,8 @@ of the Student Council. -->
 
 
   <section>
-    <div class="end">
-      <a href="https://www.facebook.com/pointgreystuco/" target="_blank">
-        <img src="resources/img/logos/social-media/facebook.png">
-      </a>
-      <a href="https://www.instagram.com/pointgrey_stuco/" target="_blank">
-        <img src="resources/img/logos/social-media/instagram.png">
-      </a>
-      <a href="https://www.snapchat.com/add/pointgrey_stuco" target="_blank">
-        <img src="resources/img/logos/social-media/snapchat.png">
-      </a>
-      <p> <br>&#169 2017-2018 Point Grey Student Council. <br> Website developed and designed by Michelle Lam. Photography provided by Matthew Yee, Sam Jeong, Alex Wong, Izzy Wong.</p>
-    </div>
+    <!-- jQuery injection -->
+    <div id="footer"></div>
   </section>
 </body>
 
