@@ -18,8 +18,10 @@ header {
 }
 
 .logo img {
-  padding-left: 41%;
-  width: 60%;
+  display: block;
+  width: 20%;
+  padding: auto;
+  margin: auto;
   margin-top: 6em;
 }
 
